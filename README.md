@@ -7,3 +7,4 @@ Temos que ter o seguinte resultado: Code.education Rocks, Baby!
 
 A imagem do projeto Go precisa ter menos de 2MB, a nossa tem 563.58 KB
 
+https://hub.docker.com/repository/docker/robertomassa/codeeducation
